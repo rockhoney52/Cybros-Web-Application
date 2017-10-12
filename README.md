@@ -48,7 +48,6 @@ OR if you want to generate a ".csv" file use:
 $ mongoexport --host localhost --db Cybros --collection users --csv --out text.csv --fields username,Password,Email
 ``` 
 ## Create administrator
-
 Go to mongo terminal by typing
 ```
 $ mongo
@@ -69,7 +68,6 @@ Admin panel can be accessed from: http://localhost:3000/admin/
 * [Bootstrap](http://getbootstrap.com/)
 
 ## Contributing
-
 Just open an issue with your suggestion.
 
 ## License
